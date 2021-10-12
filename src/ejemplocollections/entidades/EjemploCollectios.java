@@ -10,5 +10,5 @@ package ejemplocollections.entidades;
  * @author Usuario
  */
 public class EjemploCollectios {
-    
+    private String atributo;
 }
