@@ -12,5 +12,5 @@ package ejemplocollections.entidades;
 public class EjemploCollectios {
     private String atributo;
     private String atributo2;
-    
+    private String Olguita;
 }
